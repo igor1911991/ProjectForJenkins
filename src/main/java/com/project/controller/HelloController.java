@@ -1,4 +1,4 @@
-package controller;
+package com.project.controller;
 
 public class HelloController {
 }
